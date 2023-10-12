@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400&family=Roboto:ital@1&display=swap');
+
+body {
+  background: #f54141;
+  color: #ffffff;
+  font-family: kalam;
+}
+.saida {
+  background: #f87373;
+  padding: 20px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-family: kalam;
+}
